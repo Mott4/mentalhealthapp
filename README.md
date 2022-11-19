@@ -1,16 +1,20 @@
-# mentalhealthapp
+# Olá, seja bem vindo. 👋
 
-A new Flutter project.
+# Escopo
+📚 Desenvolvi este projeto a partir de um tutorial de UI do Youtuber e Desenvolvedor Mitch Koko com foco principal em testar widgets novos e "mastigar" mais ainda o uso dos widgets nativos do Flutter. Aproveitei para adicionar um drawer como exemplo e também para teste. Futuramente, irei implementar mais coisas por aqui. Se você encontrar algo de errado, estou totalmente aberto para receber dicas de melhorias e como potencializar meus códigos. Espero que goste!
 
-## Getting Started
+Mitch Koko no YouTube: https://www.youtube.com/@MitchKoko
+---------------------------------------------------------------------------
+Mitch Koko no Github: https://github.com/mitchkoko/donutAppUI/commits?author=mitchkoko
+---------------------------------------------------------------------------
+Vídeo: https://www.youtube.com/watch?v=eegl7of4g-o&t=1502s
+---------------------------------------------------------------------------
 
-This project is a starting point for a Flutter application.
+# Sobre * mentalhealthapp *
+📱UI desenvolvida para aplicativo de monitoramento de Saúde Mental.
 
-A few resources to get you started if this is your first Flutter project:
+# Foco
+😊 O projeto é focado no desenvolvimento de UI de Aplicativos e aprimoramento no uso de widgets.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Imagens
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
