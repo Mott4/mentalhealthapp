@@ -17,4 +17,4 @@ Vídeo: https://www.youtube.com/watch?v=eegl7of4g-o&t=1502s
 😊 O projeto é focado no desenvolvimento de UI de Aplicativos e aprimoramento no uso de widgets.
 
 # Imagens
-
+Capturar.PNG 
